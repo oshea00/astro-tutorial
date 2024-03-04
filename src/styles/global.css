@@ -54,7 +54,8 @@ html {
   }
   
   .nav-links a:hover, a:focus {
-    background-color: #ff9776;
+    background-color: #7678ff;
+    color: white;
   }
   
   .expanded {
